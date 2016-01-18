@@ -10,7 +10,7 @@ every academic year beginning.
 ##So What is #chooseurdistro event ?
 
 A modified version of normal installation fest. FSMK volunteers
-demonstrates different leading OSs(we can decide 5-8 leading OS
+demonstrate different leading OSs(we can decide 5-8 leading OSs
 followed by a quick survey among us) at the beginning of program.
 Volunteers explain features with video/presentation or with the real
 life scenarios. At the end of the program the actuall installation
@@ -28,6 +28,5 @@ In the month of Feb
 
 ##What preparation we need ?
 
-I don’t think we have to be much prepared on it. However we need to
-choose operating system that we would demostrate  and come up with
+Not much. However we need to choose operating system that we would demostrate  and come up with
 FSMK's custom distro with necessary academic packages installed with.
